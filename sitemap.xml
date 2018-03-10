@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,13 +13,19 @@
         
     <url>
      <loc>/notes/1. 传出神经系统概论/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/notes/1.1 胆碱能药物/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <loc>/notes/1.1 胆碱受体激动药和阻断药/</loc>
+     <lastmod>2018-03-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/notes/1.2 抗胆碱酯酶药和胆碱酯酶复活药/</loc>
+     <lastmod>2018-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -28,7 +34,7 @@
     
     <url>
      <loc>/books/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
